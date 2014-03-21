@@ -7,6 +7,9 @@ public class GetterSetter {
 	public static int shotsfired = 0;
 	public float max = 0f;
 	public static int justtouched = 0;
-	public static int ammodestroyed =0;
-
+	public static int ammodestroyed = 0;
+	public static int score = 0;
+	public static int reset = 0;
+	public static int moonhit = 0;
+    public static int hp;
 }
